@@ -174,9 +174,6 @@ h2.section-title {
     padding-left: 0.5rem !important;
     padding-right: 0.5rem !important;
   }
-  nav {
-    display: none;
-  }
 
   .two-col {
     display: flex;
@@ -191,6 +188,7 @@ h2.section-title {
   }
   
 }
+
 
 
 
