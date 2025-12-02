@@ -181,14 +181,15 @@ h2.section-title {
     display: flex;
     flex-direction: column;
     gap: var(--gap); 
-    align-items: stretch;
   }
 
   .two-col > * {
     width: 100%; 
+    max-width: 100%;
   }
   
 }
+
 
 
 
