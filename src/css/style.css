@@ -176,6 +176,14 @@ h2.section-title {
   nav {
     display: none;
   }
+
+  .two-col {
+    flex-direction: column;
+    align-items: stretch; 
+    gap: var(--gap); 
+  }
+
+  }
 }
 
 
