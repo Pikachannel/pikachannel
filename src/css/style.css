@@ -183,8 +183,12 @@ h2.section-title {
     gap: var(--gap); 
   }
 
+  .two-col > * {
+    width: 100%; 
   }
+  
 }
+
 
 
 
